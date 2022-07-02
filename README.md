@@ -6,9 +6,7 @@
 <li> <b>👨‍🎓 Formando-se:</b> Ciência da Computação - USJT; </li>
 <li> <b>🚀 Foco Atual:</b> Buscando novas oportunidades e horizontes no mundo da tecnologia; </li>
 <li> <b>⚡ Hobbys:</b> jogos, esportes, filmes, series, desenhos e praticar programação. </li>
-
 <br>
-
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
@@ -20,15 +18,19 @@
   </div>
   <br>
   <br>
-  <h2> Hard Skills 💪</h5>
-  <br>
-  <div style="display: inline_block"><br>
+ <h2> Hard Skills 💪</h2>
+<div style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<br><br>
+ </div>
+  <br>
+<h2> Contatos ☎</h2>
+<div>
+  <a href="mailto:contatoronildo.santos224@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ronildo-santos-872732216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 
 
