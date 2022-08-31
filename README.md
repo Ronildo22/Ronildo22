@@ -2,7 +2,7 @@
 
 <ul> <h2> ❤ Um pouco sobre mim 👨‍💻 </h2> </ul>
 
-<li> <b>✍ Estudando:</b> C#, .NET e PHP; </li>
+<li> <b>✍ Estudando:</b> PHP; </li>
 <li> <b>👨‍🎓 Cursando:</b> Ciência da Computação - USJT; </li>
 <li> <b>🚀 Foco Atual:</b> Buscando novas oportunidades e horizontes no mundo da tecnologia; </li>
 <li> <b>⚡ Hobbys:</b> jogos, esportes, filmes, series, desenhos e praticar programação. </li>
