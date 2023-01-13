@@ -2,7 +2,7 @@
 
 <ul> <h2> ❤ Um pouco sobre mim 👨‍💻 </h2> </ul>
 
-<li> <b>✍ Estudando:</b> .NET; </li>
+<li> <b>✍ Estudando:</b> Python; </li>
 <li> <b>👨‍🎓 Cursando:</b> Ciência da Computação - USJT; </li>
 <li> <b>🚀 Foco Atual:</b> Buscando novas oportunidades e horizontes no mundo da tecnologia; </li>
 <li> <b>⚡ Hobbys:</b> jogos, esportes, filmes, series, desenhos e praticar programação. </li>
@@ -23,7 +23,6 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  </div>
   <br>
 <h2> Contatos ☎</h2>
