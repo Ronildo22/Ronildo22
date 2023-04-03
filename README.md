@@ -5,7 +5,6 @@
 <li> <b>✍ Estudando:</b> Python 🐍; </li>
 <li> <b>👨‍🎓 Cursando:</b> Ciência da Computação - USJT; </li>
 <li> <b>🚀 Foco Atual:</b> Buscando novas oportunidades e horizontes no mundo da tecnologia; </li>
-<li> <b>⚡ Hobbys:</b> jogos, esportes, filmes, series, desenhos e praticar programação. </li>
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
