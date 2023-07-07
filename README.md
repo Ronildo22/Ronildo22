@@ -19,12 +19,18 @@
 
 <div align="center">
   <a href="https://github.com/Ronildo22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronildo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronildo22&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronildo22&theme=dark&hide_border=false"/>
+    <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronildo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronildo22&layout=compact&langs_count=7&theme=dracula"/>
  </div>
-  
-<br>
-<br>
+    <br>
+    <div align="center">
+      <img height="250em" src="https://github-profile-trophy.vercel.app/?username=Ronildo22&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
+    </div>
+    
+  <br>
+  <br>
   
  <h2> Hard Skills 💪</h2>
   
