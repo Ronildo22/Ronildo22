@@ -1,32 +1,14 @@
 # Oii!! eu sou o Ronildo, e seja bem vindo ao meu Perfil 😁👍
 
-<ul> <h2> ❤ Um pouco sobre mim 👨‍💻 </h2> </ul>
+##  ❤ Um pouco sobre mim 👨‍💻
 
 <li> <b>✍ Estudando:</b> Python 🐍; </li>
 <li> <b>👨‍🎓 Cursando:</b> Ciência da Computação - USJT; </li>
 <li> <b>🚀 Foco Atual:</b> Aprimorar meu perfil analítico e conhecimento em tecnologia; </li>
-<br>
-
-<div align="center">
-  <a href="https://app.daily.dev/Ronildo22"><img src="https://api.daily.dev/devcards/607649aba3914fe8aca8f5d014267014.png?r=qs6" width="400" alt="Ronildo Santos da Silva's Dev Card"/></a>
-</div>
 
 <br>
-
-
-
 <br>
 
-<div align="center">
-  <a href="https://github.com/Ronildo22">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronildo22&theme=dark&hide_border=false"/>
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronildo22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronildo22&layout=compact&langs_count=7&theme=dracula"/>
- </div>
-
-  <br>
-  <br>
   
  <h2> Hard Skills 💪</h2>
   
