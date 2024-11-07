@@ -4,19 +4,20 @@
 
 ##  ❤ Um pouco sobre mim 👨‍💻
 
-<li> <b>✍ Estudando:</b> Python 🐍; </li>
-<li> <b>👨‍🎓 Cursando:</b> Ciência da Computação - USJT; </li>
-<li> <b>🚀 Foco Atual:</b> Aprimorar meu perfil analítico e conhecimento em tecnologia; </li>
+<li> <b>Principal linguagem:</b> Python 🐍; </li>
+<li> <b>Principal framework:</b> Flask 🌶️; </li>
+<li> <b>Cursando:</b> Ciência da Computação - USJT 👨‍🎓; </li>
 
 <br>
   
  <h2> Hard Skills 💪</h2>
   
 <div style="display: inline_block">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Python" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
+    <img align="center" alt="Flask" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg'>
+    <img align="center" alt="Pytest" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'>
+    <img align="center" alt="MSSQL" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'>
+  
  </div>
   
 <br>
