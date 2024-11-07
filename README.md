@@ -16,6 +16,7 @@
     <img align="center" alt="Python" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
     <img align="center" alt="Flask" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg'>
     <img align="center" alt="Pytest" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'>
+    <img align="center" alt="Pytest" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
     <img align="center" alt="MSSQL" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'>
   
  </div>
