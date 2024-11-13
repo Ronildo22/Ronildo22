@@ -18,6 +18,8 @@
     <img align="center" alt="Pytest" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'>
     <img align="center" alt="Pytest" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
     <img align="center" alt="MSSQL" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'>
+    <img align="center" alt="Git" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'>
+    <img align="center" alt="Git" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'>
   
  </div>
   
@@ -29,3 +31,4 @@
     <a href="mailto:ronildo.santos224@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ronildo-santos-872732216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
