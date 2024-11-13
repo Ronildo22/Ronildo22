@@ -19,8 +19,10 @@
     <img align="center" alt="Pytest" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg'>
     <img align="center" alt="HTML5" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
     <img align="center" alt="CSS3" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
-    <img align="center" alt="Javascript" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
+    <img align="center" alt="JavaScript" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
     <img align="center" alt="MSSQL" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'>
+    <img align="center" alt="MySQL" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'>
+    <img align="center" alt="c#" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'>
     <img align="center" alt="Git" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'>
     <img align="center" alt="Linux" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'>
   
