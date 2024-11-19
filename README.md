@@ -26,7 +26,6 @@
 <h3> Front-End 🎨</h3>
 <ul style="list-style: none;">
   <li>
-    <h3>Linguagem</h3>
     <img align="center" alt="HTML5" title="HTML5" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
     <img align="center" alt="CSS3" title="CSS3" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
     <img align="center" alt="JavaScript" title="JavaScript" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
@@ -38,15 +37,10 @@
 <h3>Back-End 🗄️</h3>
 <ul style="list-style: none;">
   <li>
-    <h3>Linguagem</h3>
     <img align="center" alt="Python" title="Python" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
+    <img align="center" alt="Flask" title="Flask" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg'>
     <img align="center" alt="C#" title="C#" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'>
   </li>
-  
-  <li>
-    <h3>Framework</h3>
-    <img align="center" alt="Flask" title="Flask" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg'>
-  </li>  
 </ul>
 
 <br>
@@ -75,6 +69,7 @@
 <ul style="list-style: none;">
   <li>
     <img align="center" alt="GNU/Linux" title="GNU/Linux" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'>
+    <img align="center" alt="Windows" title="Windows" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg'>
   </li>
 </ul>
 
@@ -84,6 +79,7 @@
 <ul style="list-style: none;">
   <li>
       <img align="center" alt="Git" title="Git" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'>
+      <img align="center" alt="GitHub" title="GitHub" height="40" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg'>
   </li>
 </ul>
 
